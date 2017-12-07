@@ -16,8 +16,8 @@
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
@@ -167,27 +167,37 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 class="mb-0">University of Nebraska </h3>
+              <div class="subheading mb-3">
+              Master of Science <br>
+              Management Information Systems<br>
+              GPA: 3.61       
+              </div>      
+              <br>
+              <h4>Related Coursework</h4>
+              <div>No SQL & Big Data Technologies, Information Systems Architecture & Organization, Database Management, Management of Software Development, Management of Distributed Computer Environment, Organization Theory & Design</div>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
+              <span class="text-primary">December 2015 - December 2017</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">James Buchanan High School</h3>
-              <div class="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 class="mb-0">Gandhi Institute of Management and Technology </h3>
+              <div class="subheading mb-3">
+              Bachelors of Technology <br>
+              Electronics And Instrumentation <br>
+              GPA: 3.5
+              </div>
+              <br>
+              <h4>Related Coursework</h4>
+              <div>Programming Using C, Computer Architectures, Database Management Systems, Web Technology Development</div>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2002 - May 2006</span>
+              <span class="text-primary">August 2010 - May 2014</span>
             </div>
           </div>
-
         </div>
       </section>
 
@@ -199,47 +209,54 @@
           <ul class="list-inline list-icons">
             <li class="list-inline-item">
               <i class="devicons devicons-html5"></i>
+              <h6>HTML5</h6>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-css3"></i>
+              <h6>CSS3</h6>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-javascript"></i>
+              <h6>JavaScript</h6>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-jquery"></i>
+              <h6>jQuery</h6>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
+              <i class="devicons devicons-mysql"></i>
+              <h6>MySQL</h6>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
+              <i class="devicons devicons-php"></i>
+              <h6>PHP</h6>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
+              <h6>Bootstrap</h6>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
+              <i class="devicons devicons-laravel"></i>
+              <h6>Laravel</h6>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
+              <i class="devicons devicons-mongodb"></i>
+              <h6>MongoDB</h6>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
+              <i class="devicons devicons-django"></i>
+              <h6>Django</h6>
             </li>
           </ul>
 
-          <div class="subheading mb-3">Workflow</div>
+          <div class="subheading mb-3">Other Skills</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
+              <h5>Proffecient In Software Development Methodologies like AGILE, WaterFall, RAD(Rapid Applicaiton Developement)</h5></li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
+              <h5>Technical & Business Documentation</h5></li>
             <li>
               <i class="fa-li fa fa-check"></i>
               Cross Functional Teams</li>

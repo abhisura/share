@@ -22,7 +22,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40; }
+  color: #003399; }
 
 h1 {
   font-size: 6rem;
@@ -35,19 +35,20 @@ h2 {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem; }
+  font-size: 1.35rem; 
+  font-color:#00ffff;}
 
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #ff0000; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #003399; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -107,7 +108,7 @@ section.resume-section {
   background-color: #000000 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #ff0000 !important; }
 
 a {
   color: #BD5D38; }
