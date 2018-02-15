@@ -65,8 +65,8 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Sri
-            <span class="text-primary">Sura</span>
+          <h1 class="mb-0">bharath
+            <span class="text-primary">reddi</span>
           </h1>
           <div class="subheading mb-5">1932 Hidden Knoll Place · Apartment 303 · Raleigh, NC 27606 · (402) 800-5900 ·
             <a>ssura@unomaha.edu</a>
